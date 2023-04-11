@@ -1,0 +1,95 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: Consolas,"courier new"
+}
+
+#black-nav {
+    background-color:#333;
+    min-height: 5%;
+    min-width: 100%;
+}
+
+img {
+    float: left;
+    margin: 2% 10%;    
+}
+
+nav {
+    float: right;
+    margin:0px;    
+    }
+
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+}
+
+li {
+float: right;
+text-align: vertical;
+}
+
+li a {
+color:#ff0099;
+text-align: center;
+padding: 0;
+margin: 18% 20px;
+text-decoration: underline;
+padding: 14px 10px;
+text-transform: uppercase;
+vertical-align: middle;
+display: inline-block;
+}   
+
+#body {
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/uploads/topography.png);
+    min-height: 92%
+}
+
+h1, h2, h3, h4, h5, p{   
+    margin: 0% 10%; 
+}
+
+h1 {
+    color: black;
+    font-size: 28pt;
+    font-weight: 4em;
+    padding: 100pt 0pt 50pt;   
+    font-family: Anuphan, serif;
+}
+
+h2 {
+    color: #ff0099;
+    font-size: 22pt;
+    padding: 10pt 0pt;
+}
+
+p{
+    padding: 10pt 0pt;
+    font-size: 14pt;
+}
+
+h4 {
+    color: black;
+    font-size: 20pt;
+    font-weight: 2em;
+    padding: 30pt 0pt; 
+    text-align: center; 
+}
+
+h5{
+    color: black;
+    font-size: 18pt;
+    font-weight: 5em;
+    padding: 30pt 0pt;  
+
+}
+
+
+
+
